@@ -1,0 +1,7 @@
+Actualmente está hecho el frontend, tiene que mejorarse pero está bastante bien.
+Paso que es un gran avance:
+	Hacer cuenta de Github (https://github.com/) y Vercel (https://vercel.com/), se pueden hacer con gmail.
+	Podrías intentar subir el repositorio.
+
+
+El siguiente paso es hacer el backend que es el conector entre la futura base de datos.
